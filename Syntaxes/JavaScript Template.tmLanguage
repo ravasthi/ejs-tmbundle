@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>ejs</string>
+		<string>_</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(?x)
@@ -19,9 +20,9 @@
 		|(^|\s)\}
 		)</string>
 	<key>keyEquivalent</key>
-	<string>^~H</string>
+	<string>^~E</string>
 	<key>name</key>
-	<string>JavaScript Template</string>
+	<string>HTML (EJS)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
